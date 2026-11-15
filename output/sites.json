@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cabeus",
+    "name": "Peak near Cabeus B",
+    "lat": -85.0,
+    "lon": -39.6,
+    "horizon": 0.9,
+    "tag": "Permanent shadow edge",
+    "ph": 0.9,
+    "slope": 7.5
+  },
+  {
+    "id": "haworth",
+    "name": "Haworth",
+    "lat": -87.5,
+    "lon": -5.0,
+    "horizon": 1.2,
+    "tag": "Permanent shadow edge",
+    "ph": 2.4,
+    "slope": 4.0
+  },
+  {
+    "id": "malapert",
+    "name": "Malapert Massif",
+    "lat": -86.0,
+    "lon": 2.9,
+    "horizon": 1.0,
+    "tag": "Ridge · Earth visibility",
+    "ph": 0.4,
+    "slope": 17.1
+  },
+  {
+    "id": "moutonp",
+    "name": "Mons Mouton Plateau",
+    "lat": -84.7,
+    "lon": 31.0,
+    "horizon": 1.4,
+    "tag": "Plateau",
+    "ph": 2.0,
+    "slope": 6.4
+  },
+  {
+    "id": "mouton",
+    "name": "Mons Mouton",
+    "lat": -84.6,
+    "lon": 35.7,
+    "horizon": 1.1,
+    "tag": "Plateau",
+    "ph": 2.2,
+    "slope": 9.4
+  },
+  {
+    "id": "nobile1",
+    "name": "Nobile Rim 1",
+    "lat": -85.7,
+    "lon": 53.2,
+    "horizon": 1.5,
+    "tag": "Crater rim",
+    "ph": 2.9,
+    "slope": 7.9
+  },
+  {
+    "id": "nobile2",
+    "name": "Nobile Rim 2",
+    "lat": -84.2016,
+    "lon": 60.6999,
+    "horizon": 1.3,
+    "tag": "Crater rim",
+    "ph": 3.4,
+    "slope": 13.7
+  },
+  {
+    "id": "gerlache",
+    "name": "de Gerlache Rim 2",
+    "lat": -88.45,
+    "lon": -67.859,
+    "horizon": 0.8,
+    "tag": "Crater rim",
+    "ph": 5.0,
+    "slope": 14.9
+  },
+  {
+    "id": "slater",
+    "name": "Slater Plain",
+    "lat": -88.2,
+    "lon": 117.0,
+    "horizon": 2.1,
+    "tag": "Plain · deep shadow",
+    "ph": 4.1,
+    "slope": 6.2
+  }
+]
